@@ -48,3 +48,9 @@ Content-Type : text/html # type of the content the sever is sending back to clie
   Each resources has its own URL, so the browser sends the many of the http requests to the server to fetch that resource , Many of the http requests are set in parallel, so we can see the page asap.
 5.Once the browser has all the necessary resources it will render the html docmunent.
   Render the html document means displaying it
+  
+ #Inspecting HTTP requests and responses
+  1.inspect any of the web page 
+  2.Go to the network section 
+  3.Do the analysis which developers do
+
