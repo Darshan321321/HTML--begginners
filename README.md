@@ -68,7 +68,19 @@ Content-Type : text/html # type of the content the sever is sending back to clie
   5.img: doesnt have closing tag also has attributes like src= to specify the location of the image file, alt : alternative text file to be displayed in case the image cannot be displayed
   6.paragraph: p for adding text elements
   
-  
+# CSS -- cascading style sheets
+  To integrate it with the html we have to use the element
+  style : <style>   </style> 
+  attributes :
+   img {
+                width: 100px; # width of the image
+                border-radius: 50px;# border of the image
+                float: left; # the image will float left of the text present
+                margin-right: 10px; # will give the specified distance between the image and the text 
+            }
+            p.username {
+                font-weight: bold; # font of the paragraph with class username
+            }
 
   
 
