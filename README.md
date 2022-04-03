@@ -49,7 +49,7 @@ Content-Type : text/html # type of the content the sever is sending back to clie
 5.Once the browser has all the necessary resources it will render the html docmunent.
   Render the html document means displaying it
   
- #Inspecting HTTP requests and responses
+ # Inspecting HTTP requests and responses
   
   1.inspect any of the web page 
   2.Go to the network section 
