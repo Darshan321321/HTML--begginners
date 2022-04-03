@@ -1,13 +1,13 @@
 # HTML--begginners
-Studing for 3-5 hours a day
-HTML - markup language : 2.5 week
-CSS - stuling language : 2.5 week
-JavaScript - Programming language : 6 weeks
-first three months of above topics
-React js: its not a framework its a library of javascript and most popular :2 months
-Angular js and vue : its a framework
-Help us build applications faster by framework
-Version control system - git : 2 week
+Studing for 3-5 hours a day.
+HTML - markup language : 2.5 week.
+CSS - stuling language : 2.5 week.
+JavaScript - Programming language : 6 weeks.
+first three months of above topics.
+React js: its not a framework its a library of javascript and most popular :2 months.
+Angular js and vue : its a framework.
+Help us build applications faster by framework.
+Version control system - git : 2 week.
 
 # How--the--web--works
 http://www.codewithmosh.com is an URL
@@ -82,5 +82,13 @@ Content-Type : text/html # type of the content the sever is sending back to clie
                 font-weight: bold; # font of the paragraph with class username
             }
 
+# Formatting and validation of the web pages
+   
+  1.In order to format with the good look just inspect it and use dev tools to make it look better
+  2.For the validation of html document
+     https://validator.w3.org/
+     a.By giving the url or the address of the web page
+     b.By file upload
+     c.By the direct code entry
   
 
