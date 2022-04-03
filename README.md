@@ -50,6 +50,7 @@ Content-Type : text/html # type of the content the sever is sending back to clie
   Render the html document means displaying it
   
  #Inspecting HTTP requests and responses
+  
   1.inspect any of the web page 
   2.Go to the network section 
   3.Do the analysis which developers do
