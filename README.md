@@ -54,4 +54,21 @@ Content-Type : text/html # type of the content the sever is sending back to clie
   1.inspect any of the web page 
   2.Go to the network section 
   3.Do the analysis which developers do
+  
+  # HTML BASICS
+  Its not a case sensitive language
+  Browser can get to know its html document by the first line of the file and i.e
+  <!DOCTYPE html> -- says document type is html
+  
+  Elements 
+  1.html :contains opening tags and closing tags
+  2.head and body : to give the information which may consist title of the web page
+  3.title : specifies the title of the webpage
+  4.body 
+  5.img: doesnt have closing tag also has attributes like src= to specify the location of the image file, alt : alternative text file to be displayed in case the image cannot be displayed
+  6.paragraph: p for adding text elements
+  
+  
+
+  
 
