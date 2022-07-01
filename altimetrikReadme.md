@@ -1,7 +1,5 @@
 # Altimetrik Strategic Dashboard
-In any organisation, there are multiple projects running simultaneously. The tracking of the health of every project is a must-need process. The health of every project is known by measuring its key performance indicators (KPI). <br>
-
-This website is mainly focused on visualising the KPIs. Hence, we call it the KPI Dashboard.<br>
+In any organisation, there are multiple projects running simultaneously. The tracking of the health of every project is a must-need process. The health of every project is known by measuring its key performance indicators (KPI).This website is mainly focused on visualising the KPIs. Hence, we call it the KPI Dashboard.<br>
 
 **KPI dashboards** are tools that unite data sources and provide at-a-glance visual feedback showing how your business is performing against our key performance indicators (KPIs). They benefit the organisation by providing :<br>
 
