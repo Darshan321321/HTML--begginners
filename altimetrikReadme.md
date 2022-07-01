@@ -17,3 +17,4 @@ jsonwebtoken 0.9.1 <br>
  "react-validation": "^3.0.7",<br>
  "react-validator": "^0.1.0",<br>
  "validator": "^12.2.0"<br>
+![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) 
