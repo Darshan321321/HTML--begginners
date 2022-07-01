@@ -1,3 +1,19 @@
+# Altimetrik Strategic Dashboard
+In any organisation, there are multiple projects running simultaneously. The tracking of the health of every project is a must-need process. The health of every project is known by measuring its key performance indicators (KPI). <br>
+
+This website is mainly focused on visualising the KPIs. Hence, we call it the KPI Dashboard.<br>
+
+**KPI dashboards** are tools that unite data sources and provide at-a-glance visual feedback showing how your business is performing against our key performance indicators (KPIs). They benefit the organisation by providing :<br>
+
+• A simple way to track key performance indicators (KPIs) and other business metrics.<br>
+
+• A unified view of data that improves visibility into the health of the company.<br>
+
+• Data visualisation with performance and status indicators.<br>
+
+
+
+
 # Prequisites of Altimetrik Strategeic Dashboard website
 ## Backend
 Java 11 <br>
@@ -17,5 +33,4 @@ jsonwebtoken 0.9.1 <br>
  "react-validation": "^3.0.7",<br>
  "react-validator": "^0.1.0",<br>
  "validator": "^12.2.0"<br>
-![GitHub Logo](https://d1m75rqqgidzqn.cloudfront.net/images/logo.png) Format: ![Alt Text](url) <br>
-[Github](http://github.com) 
+
