@@ -13,31 +13,31 @@ In any organisation, there are multiple projects running simultaneously. The tra
 ## Types of KPI's
 
 ### 1.Execution Excellence : 
- This Kpi measures the total work distribution of the project into user stories, and measures the parameters given below.
-• Committed Stories : The number of User Stories which are committed by all the employees.
-• Actual Stories : The number of User Stories which are yet to be completed.
-• Velocity : The number of User Stories completed with respect to the time frame given.
-• Defects UAT : If any defects are left undetected by the team and are found by the user, it is known as defect leakage or bug leakage.
+ This Kpi measures the total work distribution of the project into user stories, and measures the parameters given below.<br>
+• Committed Stories : The number of User Stories which are committed by all the employees.<br>
+• Actual Stories : The number of User Stories which are yet to be completed.<br>
+• Velocity : The number of User Stories completed with respect to the time frame given.<br>
+• Defects UAT : If any defects are left undetected by the team and are found by the user, it is known as defect leakage or bug leakage.<br>
 
 ### 2.Governance :
-This Kpi measures the number of meetings held between the employees during the project.
-• Team Meet : The number of meetings per week held in a team.
-• Stake Holder Meet : The number of meetings per week held with Stake Holders.
-• Exec Connect : The number of meetings per week held with Senior Management and others.
+This Kpi measures the number of meetings held between the employees during the project.<br>
+• Team Meet : The number of meetings per week held in a team.<br>
+• Stake Holder Meet : The number of meetings per week held with Stake Holders.<br>
+• Exec Connect : The number of meetings per week held with Senior Management and others.<br>
 
 ### 3.Innovation
-This Kpi measures innovative ideas implemetned during the project.
-• Improvements:
-• Refactoring :  The number of changes made in the software system which improves internals structure.
+This Kpi measures innovative ideas implemetned during the project.<br>
+• Improvements:<br>
+• Refactoring :  The number of changes made in the software system which improves internals structure.<br>
 
 ### 4.People Engagement
-This KPI measures the number of employees working under the project.
-• Resignation :  Total number of resignations in a week.
-• Resignation Withdrawal : Total number of resignations that were withdrawn in a week.
+This KPI measures the number of employees working under the project.<br>
+• Resignation :  Total number of resignations in a week.<br>
+• Resignation Withdrawal : Total number of resignations that were withdrawn in a week.<br>
 
 ### 5.Resource Fulfilment
-This Kpi measure the number of resources like employees required for the project.
-• Position Aging Days : Number of days the position was vacant.
+This Kpi measure the number of resources like employees required for the project.<br>
+• Position Aging Days : Number of days the position was vacant.<br>
 
 
 
